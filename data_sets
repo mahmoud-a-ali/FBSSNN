@@ -1,0 +1,11 @@
+datasets:
+1.collected during the thesis using icub in iit
+
+2. two moving people dataset from:
+Osswald Marc, S.H.B.R.I.G., Ieng (2017). spiking neural network model of 3d
+perception for event-based neuromorphic stereo vision systems. Science, 7. 
+
+3. pendulum dataset from:
+Dikov, G., Firouzi, M., Rohrbein, F., Conradt, J. & Richter, C. ¨ (2017).
+Spiking cooperative stereo-matching at 2 ms latency with neuromorphic hardware.
+In Conference on Biomimetic and Biohybrid Systems, 119{137, Springer.
